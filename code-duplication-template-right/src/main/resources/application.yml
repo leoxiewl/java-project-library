@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: code-duplication-demo02
+server:
+  port: 8002
